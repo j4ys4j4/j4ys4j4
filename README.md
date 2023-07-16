@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%23FF0000&size=50&center=true&vCenter=true&height=60&width=600&lines=Im+Jay.;Welcome+to+my+profile!" alt="Title" />
 </div>
 
-<br><br><br>
-<h2 align="center"> 🌟 Tools & Languages 🌟 </h2>
+<br><br>
+<h2 align="center"> ⭐ 🇹‌🇴‌🇴‌🇱‌🇸‌ & 🇱‌🇦‌🇳‌🇬‌🇺‌🇦‌🇬‌🇪‌ ⭐ </h2>
 
 <p align="center">
   <kbd>
@@ -41,7 +41,7 @@
 </p>
 <br><br>
 
-<h2 align="center"> 📊 My Stats 📊 </h2>
+<h2 align="center"> 📊 🇲‌🇾‌ 🇸‌🇹‌🇦‌🇹‌🇸‌ 📊 </h2>
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ys4j4&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
@@ -58,7 +58,7 @@
 <p> 
 <br><br>
 
-<h2 align="center"> 👤 About Me 👤 </h2>
+<h2 align="center"> 👦 🇦‌🇧‌🇴‌🇺‌🇹‌ 🇲‌🇪‌ 👦 </h2>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/-Click%20to%20See :3-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Rickroll"></a>
@@ -66,5 +66,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/h8lEyMvzT1c0tMdjs5/giphy.gif" alt="Minecraft Animation" />
+  <img src="https://media.giphy.com/media/jp1VngG6RaX7G0DXid/giphy.gif" alt="Minecraft Animation" />
 </div>
